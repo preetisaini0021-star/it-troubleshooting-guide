@@ -18,6 +18,19 @@ This project contains simple solutions for common computer and network problems.
 ## Tools Used
 - Windows OS
 - Basic Networking
+  ## Screenshots
+
+### WiFi Issue Example
+![WiFi Issue](wifi-issue.png)
+
+### Slow Computer (Task Manager)
+![Slow Computer](slow-computer.png)
+
+### Network Troubleshooting
+![Network Troubleshooter](network-troubleshoot.png)
+
+### IP Configuration
+![IP Config](ipconfig-output.png)
 
 ## Author
 Preeti Saini
