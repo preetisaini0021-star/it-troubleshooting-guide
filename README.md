@@ -18,7 +18,7 @@ This project contains simple solutions for common computer and network problems.
 ## Tools Used
 - Windows OS
 - Basic Networking
-  ## Screenshots
+## Screenshots
 
 ### WiFi Issue Example
 ![WiFi Issue](wifi-issue.png)
