@@ -21,16 +21,16 @@ This project contains simple solutions for common computer and network problems.
   ## Screenshots
 
 ### WiFi Issue Example
-![WiFi Issue](Pictures\wifi-issue.png)
+![WiFi Issue](wifi-issue.png)
 
 ### Slow Computer (Task Manager)
-![Slow Computer](Pictures\slow-computer.png)
+![Slow Computer](slow-computer.png)
 
 ### Network Troubleshooting
-![Network Troubleshooter](Pictures\network-troubleshoot.png)
+![Network Troubleshooter](network-troubleshoot.png)
 
 ### IP Configuration
-![IP Config](Pictures\ipconfig-output.png)
+![IP Config](ipconfig-output.png)
 
 ## Author
 Preeti Saini
