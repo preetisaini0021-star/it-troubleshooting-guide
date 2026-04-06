@@ -32,5 +32,17 @@ This project contains simple solutions for common computer and network problems.
 ### IP Configuration
 ![IP Config](ipconfig-output.png)
 
+## Troubleshooting Steps Summary
+1. Identify the issue  
+2. Check basic settings (WiFi, cables, restart)  
+3. Use built-in tools (Task Manager, Network Troubleshooter)  
+4. Run commands like ipconfig  
+5. Apply fix and verify  
+
+## Skills Demonstrated
+- IT Troubleshooting  
+- Networking Basics  
+- Problem Solving  
+- Windows OS Support 
 ## Author
 Preeti Saini
